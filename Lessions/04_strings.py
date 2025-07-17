@@ -1,0 +1,5 @@
+print ("Hello worlds!")
+print("This is my first Python script.")
+print("I am excited to learn Python!")
+print("I am learning Python with Dr. Ammar.")
+print("This is my first line of code in Python.")
